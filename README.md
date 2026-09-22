@@ -17,5 +17,3 @@ The CVE request went to the maintainer on 7 August 2026 with the other HRConvert
 Local instance of 3.5 only.
 
 Reported privately on 31 July 2026. The vendor published the advisory on 3 August 2026.
-
-L0stHeart
